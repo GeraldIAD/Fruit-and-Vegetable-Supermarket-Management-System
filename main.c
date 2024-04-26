@@ -261,7 +261,7 @@ void welcome2() //
     getToday();
     system("cls");
     printf("╭*╮———-———-———-———-———-———-———-———-———*\n");
-    printf("╰*╯ | DEV Gerald & Solokey & YiberWon |    果蔬超市管理系统    |\n ");
+    printf("╰*╯ | DEV Anonymous |    果蔬超市管理系统    |\n ");
     printf("   | 现在时间是 %d年%02d月%02d日%02d时   |------------------------|\n", cntYear, cntMon, cntDay, cntHour);
     printf("    | 店内现金:%12.2lf元         |\n", totalMoney);
     printf("    |——-———-——-——-———-——|\n\n");
